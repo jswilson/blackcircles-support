@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Support for Black Circles!
 
-You can use the [editor on GitHub](https://github.com/jswilson/blackcircles-support/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can get support for Black Circles right here.  For the most part, it is provided free as-is, but we'll try and help with any problems you have.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FAQ
 
-### Markdown
+### You are hosting Pearl Jam concerts!  Is this legitimate?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Yes!  The recordings are all recorded by the audience.  These are NOT the soundboard "bootlegs" offered for sale by Pearl Jam.  Rest assured this is all legitimate.
 
-```markdown
-Syntax highlighted code block
+### Why do the shows only go back to 2007?
 
-# Header 1
-## Header 2
-### Header 3
+I'm working on uploading more shows.  There is work associated with making sure all of the songs are labelled correctly, so I'll do this when I have time.  I thought it best to get the first batch of shows uploaded.
 
-- Bulleted
-- List
+### Can I download shows?
 
-1. Numbered
-2. List
+Soon!  I will be adding this in a future release.
 
-**Bold** and _Italic_ and `Code` text
+### Can I help?
 
-[Link](url) and ![Image](src)
-```
+Maybe!  I'll post a link here soon to the repository where I'll solicit help.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jswilson/blackcircles-support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
