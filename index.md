@@ -16,7 +16,7 @@ I'm working on uploading more shows.  There is work associated with making sure 
 
 These are only audience recordings; not necessarily every single Pearl Jam concert has an audience recording available online.  If you know of a concert I don't have, please send me a link and I'll add it!
 
-### Can I download shows?
+### Can I download shows so I can listen offline?
 
 Soon!  I will be adding this in a future release.
 
