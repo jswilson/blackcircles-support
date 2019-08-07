@@ -12,6 +12,10 @@ Yes!  The recordings are all recorded by the audience.  These are NOT the soundb
 
 I'm working on uploading more shows.  There is work associated with making sure all of the songs are labelled correctly, so I'll do this when I have time.  I thought it best to get the first batch of shows uploaded.
 
+### Why don't you have the show I attended?
+
+These are only audience recordings; not necessarily every single Pearl Jam concert has an audience recording available online.  If you know of a concert I don't have, please send me a link and I'll add it!
+
 ### Can I download shows?
 
 Soon!  I will be adding this in a future release.
